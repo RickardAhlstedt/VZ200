@@ -59,8 +59,15 @@ If you own a unit, please fill in your serial number via a pull-request, feel fr
 |-----------|-----------|-----------|-------|
 |N/A|N/A|N/A|Ian Gledhill|
 
+## Laser 310
+| Serial no | Condition | Kbd Color | Owner |
+|-----------|-----------|-----------|-------|
+|v192293<sup>2</sup>|N/A|N/A|SK Leung|
+
 ## Contributors
 [bushy555](https://github.com/bushy555) - [Issue #1](https://github.com/Dronki/VZ200/issues/1)
+[bushy555](https://github.com/bushy555) - [Issue #2](https://github.com/Dronki/VZ200/issues/2)
 
 ## Notes
-<sup>1</sup> Andrew Lairds, formerly Barry Hubble
+<sup>1</sup> Andrew Lairds, formerly Barry Hubble  
+<sup>2</sup> Factory built 66k version, (64k internal RAM + 2k VRAM)
