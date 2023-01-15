@@ -76,11 +76,11 @@ If you own a unit, please fill in your serial number via a pull-request, feel fr
 |v135987<sup>4</sup>|N/A|1st gen|Random pic|
 
 ## Contributors
-[bushy555](https://github.com/bushy555) - [Issue #1](https://github.com/Dronki/VZ200/issues/1)
-[bushy555](https://github.com/bushy555) - [Issue #2](https://github.com/Dronki/VZ200/issues/2)
-[bushy555](https://github.com/bushy555) - [Issue #3](https://github.com/Dronki/VZ200/issues/3)
-[bushy555](https://github.com/bushy555) - [Issue #4](https://github.com/Dronki/VZ200/issues/4)
-[bushy555](https://github.com/bushy555) - [Issue #5](https://github.com/Dronki/VZ200/issues/5)
+[bushy555](https://github.com/bushy555) - [Issue #1](https://github.com/Dronki/VZ200/issues/1)  
+[bushy555](https://github.com/bushy555) - [Issue #2](https://github.com/Dronki/VZ200/issues/2)  
+[bushy555](https://github.com/bushy555) - [Issue #3](https://github.com/Dronki/VZ200/issues/3)  
+[bushy555](https://github.com/bushy555) - [Issue #4](https://github.com/Dronki/VZ200/issues/4)  
+[bushy555](https://github.com/bushy555) - [Issue #5](https://github.com/Dronki/VZ200/issues/5)  
 
 
 ## Notes
